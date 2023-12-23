@@ -1,4 +1,5 @@
-![image](https://github.com/DanMandrus/BulletinBoard/assets/128230698/3aaeefb7-bfbf-4716-96f9-7655dd7b4b00)
+![image](https://github.com/DanMandrus/BulletinBoard/assets/128230698/aea95a4c-0765-447d-b0bd-ef3d1267d0b6)
+
 
 
 ## Доска объявлений
