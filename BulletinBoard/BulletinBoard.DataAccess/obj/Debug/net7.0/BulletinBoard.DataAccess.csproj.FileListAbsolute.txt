@@ -1,0 +1,14 @@
+C:\Users\mandr\OneDrive\Рабочий стол\BulletinBoard\BulletinBoard.DataAccess\bin\Debug\net7.0\BulletinBoard.DataAccess.deps.json
+C:\Users\mandr\OneDrive\Рабочий стол\BulletinBoard\BulletinBoard.DataAccess\bin\Debug\net7.0\BulletinBoard.DataAccess.runtimeconfig.json
+C:\Users\mandr\OneDrive\Рабочий стол\BulletinBoard\BulletinBoard.DataAccess\bin\Debug\net7.0\BulletinBoard.DataAccess.dll
+C:\Users\mandr\OneDrive\Рабочий стол\BulletinBoard\BulletinBoard.DataAccess\bin\Debug\net7.0\BulletinBoard.DataAccess.pdb
+C:\Users\mandr\OneDrive\Рабочий стол\BulletinBoard\BulletinBoard.DataAccess\obj\Debug\net7.0\BulletinBoard.DataAccess.csproj.AssemblyReference.cache
+C:\Users\mandr\OneDrive\Рабочий стол\BulletinBoard\BulletinBoard.DataAccess\obj\Debug\net7.0\BulletinBoard.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mandr\OneDrive\Рабочий стол\BulletinBoard\BulletinBoard.DataAccess\obj\Debug\net7.0\BulletinBoard.DataAccess.AssemblyInfoInputs.cache
+C:\Users\mandr\OneDrive\Рабочий стол\BulletinBoard\BulletinBoard.DataAccess\obj\Debug\net7.0\BulletinBoard.DataAccess.AssemblyInfo.cs
+C:\Users\mandr\OneDrive\Рабочий стол\BulletinBoard\BulletinBoard.DataAccess\obj\Debug\net7.0\BulletinBoard.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mandr\OneDrive\Рабочий стол\BulletinBoard\BulletinBoard.DataAccess\obj\Debug\net7.0\BulletinBoard.DataAccess.dll
+C:\Users\mandr\OneDrive\Рабочий стол\BulletinBoard\BulletinBoard.DataAccess\obj\Debug\net7.0\refint\BulletinBoard.DataAccess.dll
+C:\Users\mandr\OneDrive\Рабочий стол\BulletinBoard\BulletinBoard.DataAccess\obj\Debug\net7.0\BulletinBoard.DataAccess.pdb
+C:\Users\mandr\OneDrive\Рабочий стол\BulletinBoard\BulletinBoard.DataAccess\obj\Debug\net7.0\BulletinBoard.DataAccess.genruntimeconfig.cache
+C:\Users\mandr\OneDrive\Рабочий стол\BulletinBoard\BulletinBoard.DataAccess\obj\Debug\net7.0\ref\BulletinBoard.DataAccess.dll

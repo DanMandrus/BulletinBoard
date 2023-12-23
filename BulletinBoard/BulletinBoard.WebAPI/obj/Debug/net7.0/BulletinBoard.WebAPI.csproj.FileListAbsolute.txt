@@ -1,0 +1,7 @@
+C:\Users\mandr\OneDrive\Рабочий стол\BulletinBoard\BulletinBoard.WebAPI\obj\Debug\net7.0\BulletinBoard.WebAPI.csproj.AssemblyReference.cache
+C:\Users\mandr\OneDrive\Рабочий стол\BulletinBoard\BulletinBoard.WebAPI\obj\Debug\net7.0\BulletinBoard.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mandr\OneDrive\Рабочий стол\BulletinBoard\BulletinBoard.WebAPI\obj\Debug\net7.0\BulletinBoard.WebAPI.AssemblyInfoInputs.cache
+C:\Users\mandr\OneDrive\Рабочий стол\BulletinBoard\BulletinBoard.WebAPI\obj\Debug\net7.0\BulletinBoard.WebAPI.AssemblyInfo.cs
+C:\Users\mandr\OneDrive\Рабочий стол\BulletinBoard\BulletinBoard.WebAPI\obj\Debug\net7.0\BulletinBoard.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\mandr\OneDrive\Рабочий стол\BulletinBoard\BulletinBoard.WebAPI\obj\Debug\net7.0\BulletinBoard.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mandr\OneDrive\Рабочий стол\BulletinBoard\BulletinBoard.WebAPI\obj\Debug\net7.0\BulletinBoard.WebAPI.MvcApplicationPartsAssemblyInfo.cache
